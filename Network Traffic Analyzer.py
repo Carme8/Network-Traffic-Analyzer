@@ -119,7 +119,7 @@ class NetworkAnalyzer:
         self.update_results("Analisi avviata. Controlla i risultati nell'area di testo.")
 
     def close_program(self):
-        self.root.quit()  # Questo chiude la finestra Tkinter
+        self.root.quit()  
 
 
 if __name__ == "__main__":
