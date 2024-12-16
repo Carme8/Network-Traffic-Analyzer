@@ -27,8 +27,7 @@ come attacchi DDoS (Distributed Denial of Service) o tentativi di accesso non au
   • Al termine dell'analisi, lo strumento genera un report che elenca tutti gli IP sospetti rilevati e il numero di pacchetti inviati.
   Il report può essere salvato come file di testo, consentendo agli utenti di conservarlo per un'analisi futura o per reportistica.
   
-
-<img width="360" alt="Screenshot 2024-12-16 alle 14 25 47" src="https://github.com/user-attachments/assets/b6641c97-f7ac-4fd1-b09c-4a5b99d3d6b9" /> <img width="358" alt="Screenshot 2024-12-16 alle 15 33 45" src="https://github.com/user-attachments/assets/0d795ee0-d2e4-4380-9caa-fba2e65029d7" />
+ <img width="358" alt="Screenshot 2024-12-16 alle 15 33 45" src="https://github.com/user-attachments/assets/0d795ee0-d2e4-4380-9caa-fba2e65029d7" />
 
 # Dipendenze:
 • È richiesto Python 3.13.0.
